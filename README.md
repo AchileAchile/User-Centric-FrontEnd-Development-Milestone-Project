@@ -136,7 +136,7 @@ The tehnologies used for the design of this app are:
 DEPLOYMENT
 ----------
 A streamlined version of this app is has been deployed to github at the following url:
-https://github.com/AchileAchile/User-Centric-FrontEnd-Development-Milestone-Project
+https://achileachile.github.io/User-Centric-FrontEnd-Development-Milestone-Project/
 + there are no difference in the codes deployed to github and the codes in this workspace
 + the workspace deployed to github is named The Monkees while this is called The Old Monkees just for saving convinience on cloud9
 + the workspace deployed to github has no video, audio and images
